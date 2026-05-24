@@ -99,8 +99,9 @@ arnav = {
 | Badge | Certification |
 |---|---|
 | ☁️ | **AWS Certified Cloud Practitioner** — Cloud architecture & core services |
-| 🔧 | **Samsung IoT Certification** — Embedded systems & IoT integration |
+
 | 🗄️ | **AWS Certified Data Engineer** — Data pipelines & AWS data services |
+| 🔧 | **Samsung IoT Certification** — Embedded systems & IoT integration |
 
 ---
 
@@ -108,9 +109,6 @@ arnav = {
 
 <div align="center">
 
-![Arnav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arnav-techy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arnav-techy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Arnav-techy&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B35&currStreakLabel=C9D1D9)
 
