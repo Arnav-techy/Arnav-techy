@@ -99,7 +99,6 @@ arnav = {
 | Badge | Certification |
 |---|---|
 | ☁️ | **AWS Certified Cloud Practitioner** — Cloud architecture & core services |
-
 | 🗄️ | **AWS Certified Data Engineer** — Data pipelines & AWS data services |
 | 🔧 | **Samsung IoT Certification** — Embedded systems & IoT integration |
 
