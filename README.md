@@ -24,7 +24,7 @@
 ```python
 arnav = {
     "role"        : "AI/ML Engineer & CS Undergrad @ KIET (2024–2028)",
-    "focus"       : ["Agentic AI", "LLMs", "Computer Vision", "NLP"],
+    "focus"       : "Agentic AI", "LLMs", "Computer Vision", "NLP",
     "currently"   : "Building autonomous AI systems that solve real problems",
     "philosophy"  : "Whatever happens, happens.",
 }
