@@ -109,7 +109,7 @@ arnav = {
 <div align="center">
 
 
-![GitHub Streak]((https://streak-stats.demolab.com/?user=Arnav-techy&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B35&currStreakLabel=C9D1D9))
+![GitHub Streak]([(https://streak-stats.demolab.com/?user=Arnav-techy&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B35&currStreakLabel=C9D1D9)](https://streak-stats.demolab.com/?user=Arnav-techy&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B35&currStreakLabel=C9D1D9))
 
 </div>
 
