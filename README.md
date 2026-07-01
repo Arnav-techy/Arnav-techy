@@ -109,7 +109,7 @@ arnav = {
 <div align="center">
 
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Arnav-techy)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Arnav-techy&theme=everforest-dark)](https://git.io/streak-stats)
 
 </div>
 
