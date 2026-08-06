@@ -34,7 +34,7 @@ arnav = {
 
 ## 🚀 Featured Projects
 
-### 🌑 [Nocturne.ai](https://github.com/Arnav-techy) — Real-Time Market Sentiment Engine
+### 🌑 [Nocturne.ai](https://github.com/Arnav-techy/Nova) — Real-Time Market Sentiment Engine
 > `Python` `Reddit API (PRAW)` `XGBoost` `Scikit-learn`
 
 - Scraped **10,000+ Reddit financial comments daily** to power real-time sentiment signals
@@ -43,7 +43,7 @@ arnav = {
 
 ---
 
-### 🛡️ [Argus-AI]((https://argus-ai-frontend.onrender.com/) — Autonomous Security Intelligence Assistant
+### 🛡️ [Argus-AI]((https://argus-ai-frontend.onrender.com/)) — Autonomous Security Intelligence Assistant
 > `Python` `Gemini API` `LangChain` `RAG Architecture`
 
 - RAG-based AI agent over **10,000+ threat intelligence documents**
@@ -52,7 +52,7 @@ arnav = {
 
 ---
 
-### 📄 [ResMate.ai](https://github.com/Arnav-techy) — AI-Powered Resume Optimizer
+### 📄 [ResMate.ai]((https://github.com/Arnav-techy/Resmate.ai)) — AI-Powered Resume Optimizer
 > `Python` `FastAPI` `NLP` `OpenAI API` `LaTeX`
 
 - ATS semantic scoring engine that matches resumes to job descriptions
