@@ -43,7 +43,7 @@ arnav = {
 
 ---
 
-### 🛡️ [Argus-AI](https://github.com/Arnav-techy) — Autonomous Security Intelligence Assistant
+### 🛡️ [Argus-AI]((https://argus-ai-frontend.onrender.com/) — Autonomous Security Intelligence Assistant
 > `Python` `Gemini API` `LangChain` `RAG Architecture`
 
 - RAG-based AI agent over **10,000+ threat intelligence documents**
