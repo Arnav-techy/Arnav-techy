@@ -65,7 +65,7 @@ arnav = {
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,html,css,react,nextjs,nodejs,fastapi,tensorflow,pytorch,opencv,mysql,postgres,docker,aws,git,github,githubactions,vscode,figma&perline=8&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,html,css,react,nextjs,nodejs,fastapi,tensorflow,pytorch,opencv,mysql,postgres,docker,aws,git,github,githubactions,linux,figma&perline=8&theme=dark" />
 </p>
 ---
 
