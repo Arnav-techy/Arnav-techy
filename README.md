@@ -43,7 +43,7 @@ arnav = {
 
 ---
 
-### 🛡️ [Argus-AI]((https://argus-ai-frontend.onrender.com/)) — Autonomous Security Intelligence Assistant
+### 🛡️ [Argus-AI](https://argus-ai-frontend.onrender.com/) — Autonomous Security Intelligence Assistant
 > `Python` `Gemini API` `LangChain` `RAG Architecture`
 
 - RAG-based AI agent over **10,000+ threat intelligence documents**
@@ -52,7 +52,7 @@ arnav = {
 
 ---
 
-### 📄 [ResMate.ai]((https://github.com/Arnav-techy/Resmate.ai)) — AI-Powered Resume Optimizer
+### 📄 [ResMate.ai](https://github.com/Arnav-techy/Resmate.ai) — AI-Powered Resume Optimizer
 > `Python` `FastAPI` `NLP` `OpenAI API` `LaTeX`
 
 - ATS semantic scoring engine that matches resumes to job descriptions
@@ -65,7 +65,7 @@ arnav = {
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,html,css,react,nextjs,nodejs,fastapi,tensorflow,pytorch,opencv,mysql,postgres,docker,aws,git,github,githubactions,linux,figma&perline=8&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,html,css,react,nextjs,nodejs,fastapi,tensorflow,pytorch,opencv,redis,mysql,postgres,docker,aws,git,github,githubactions,linux,figma&perline=8&theme=dark" />
 </p>
 ---
 
